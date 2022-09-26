@@ -1,5 +1,5 @@
 # DSA
-# Start-DSA
+
 ## LANGUAGE SELECTION
 
 Pick any programming language of your choice. If you want to build DSA from scratch, I'll suggest C/C++.
